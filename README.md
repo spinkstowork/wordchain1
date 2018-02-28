@@ -29,7 +29,7 @@ Default WCEngine.MAX_DEPTH is 200, you may wish to change it
 
 The dictionary included contains > 4500 nouns
 
-When a solution is found, a text file is dumped out containing hueristics
+When a solution is found, a text file is dumped out containing heuristics
 of the head keys and the terminal nodes discovered.
 
 ------------------------
