@@ -1,7 +1,7 @@
 SDP Feb, 2018
 
-I interviewed with a company called eMerlyn. They described this problem to me
-as part of a pair programming excercise (1hr duration). There were 2 other coding
+I recently interviewed with a company. They described this problem to me
+as part of a pair programming exercise (1hr duration). There were 2 other coding
 exercises during the hour, so we didnt get to this until half past the hour.
 We discussed a solution in depth, but I didnt write any code. I didnt get the job,
 but I thought that at least I would code up the example as a programming exercise.
@@ -21,7 +21,7 @@ Constraints ------------------------------------------------
 Use only lowercase words.
 
 Dictionary must be in text file format. Hyphens, spaces, and
-single apostraphes will be filtered out.
+single apostrophes will be filtered out.
 
 This is a single threaded solution.
 
